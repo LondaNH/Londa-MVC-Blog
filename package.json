@@ -2,6 +2,7 @@
   "name": "londa-mvc-blog",
   "version": "1.0.0",
   "description": "",
+ "homepage": "https://github.com/LondaNH/Londa-MVC-Blog#readme",
   "main": "server.js",
   "dependencies": {
     "bcrypt": "^5.1.0",
@@ -28,7 +29,8 @@
   "bugs": {
     "url": "https://github.com/LondaNH/Londa-MVC-Blog/issues"
   },
-  "homepage": "https://github.com/LondaNH/Londa-MVC-Blog#readme",
+ 
  }
+
 
  
